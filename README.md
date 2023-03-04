@@ -7,5 +7,5 @@ Server Ports<br>
 Ports required to run the server
 
 Port	default <br>
-Query	7777<br>
-Steam	27015
+Steam	7777<br>
+Query 27015
