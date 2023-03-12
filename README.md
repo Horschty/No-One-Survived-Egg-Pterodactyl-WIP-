@@ -1,5 +1,5 @@
-# No One Survived Egg Pterodactyl (WIP)
-No One Survived Egg Pterodactyl (WIP)
+# No One Survived Egg Pterodactyl 
+No One Survived Egg Pterodactyl 
 
 This is a multiplayer cooperative open world construction survival sandbox game,<br> where you and your friends must find supplies and build shelters in this world.<br> You have to keep an eye on your character's needs state at all times,<br> a bad state is likely to lead to death
 
